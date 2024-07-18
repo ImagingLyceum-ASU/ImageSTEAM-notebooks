@@ -55,7 +55,7 @@ Then follow steps **4 - 7**
 ## How to cite these notebooks
 Please cite our EAAI-24 paper which describes the ImageSTEAM program in addition to this Github.
 
-Suren Jayasuriya, Kimberlee Swisher, Joshua Rego, Sreenithy Chandran, John Mativo, Terri Kurz, Cerenity Collins, Dawn Robinson, Ramana Pidaparti, ImageSTEAM: Teacher Professional Development for Integrating Visual Computing into Middle School Lessons, The 14th Symposium on Educational Advances in Artificial Intelligence (EAAI-24) 2024
+Suren Jayasuriya, Kimberlee Swisher, Joshua Rego, Sreenithy Chandran, John Mativo, Terri Kurz, Cerenity Collins, Dawn Robinson, Ramana Pidaparti, "ImageSTEAM: Teacher Professional Development for Integrating Visual Computing into Middle School Lessons", The 14th Symposium on Educational Advances in Artificial Intelligence (EAAI-24) 2024
 
 Bibtex:
 @inproceedings{jayasuriya2024imagesteam,
